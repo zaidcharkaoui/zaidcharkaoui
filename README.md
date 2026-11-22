@@ -16,8 +16,8 @@
 - 🔭 **Currently working on:** Multi-Cloud Detection & Automated DFIR Lab (AWS, Azure Sentinel, Terraform) & AI Red/Blue Teaming Lab (LLM/RAG Security)
 - 🏢 **Previous Experience:** Penetration Testing Intern at **NTT DATA** (Web & API Security Audit - OWASP, Burp Suite)
 - 🌱 **Currently exploring:** Cloud Security, Automated Incident Response (Python/Boto3) & SDN Network Segmentation
-- 💬 **Ask me about:** SIEM/SOC (Wazuh, Splunk), Web Pentesting, Linux Security, Docker & Python
-- 🎯 **Open to:** On-site **PFE Internship** (4+ months, starting March 2027) in SOC, Pentest, or DevSecOps
+- 💬 **Ask me about:** SIEM/SOC (Wazuh), Web Pentesting, Linux Security, Docker & Python
+- 🎯 **Open to:** On-site **PFE Internship** (4+ months, starting February 2027) in SOC, Pentest, or DevSecOps
 - 📫 **Reach me at:** charkaouizaid4@gmail.com
 - 📄 **[Download My CV](./CV_Zaid_Charkaoui_SOC_BlueTeam_reduce.pdf")**
 
