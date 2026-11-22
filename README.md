@@ -19,7 +19,7 @@
 - 💬 **Ask me about:** SIEM/SOC (Wazuh), Web Pentesting, Linux Security, Docker & Python
 - 🎯 **Open to:** On-site **PFE Internship** (4+ months, starting February 2027) in SOC, Pentest, or DevSecOps
 - 📫 **Reach me at:** charkaouizaid4@gmail.com
-- 📄 **[Download My CV](./CV_Zaid_Charkaoui_SOC_BlueTeam_reduce.pdf")**
+- 📄 **[Download My CV](CV_Zaid_Charkaoui_SOC_BlueTeam_reduce.pdf")**
 
 ---
 
